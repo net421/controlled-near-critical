@@ -4,6 +4,8 @@ This repository contains the reproducible benchmark, scripts, results, figures, 
 
 The work builds on the foundational **Near-Critical Systems** framework and documents the controlled benchmark used to support the industrial **Supply Chain Digital Twin** application.
 
+**Paper A archived release:** https://doi.org/10.5281/zenodo.20792811
+
 ## Research position
 
 ```text
@@ -99,7 +101,7 @@ Some simulations are computationally heavy and may take tens of minutes dependin
 
 ## Related repositories
 
-- [Near-Critical Systems](https://github.com/net421/near-critical-systems): foundational Paper A theory and simulation framework.
+- [Near-Critical Systems / Paper A](https://github.com/net421/near-critical-systems): foundational theory and simulation framework. Archived release DOI: https://doi.org/10.5281/zenodo.20792811
 - [Supply Chain Digital Twin](https://github.com/net421/Supply-Chain-Digital-Twin): industrial Digital Twin application using the near-critical framework.
 
 ## Status
