@@ -1,10 +1,13 @@
 # Controlled Near-Critical Benchmark (Paper B)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20792947.svg)](https://doi.org/10.5281/zenodo.20792947)
+
 This repository contains the reproducible benchmark, scripts, results, figures, and manuscript materials associated with **Paper B**.
 
 The work builds on the foundational **Near-Critical Systems** framework and documents the controlled benchmark used to support the industrial **Supply Chain Digital Twin** application.
 
-**Paper A archived release:** https://doi.org/10.5281/zenodo.20792811
+**Paper B archived release:** https://doi.org/10.5281/zenodo.20792947  
+**Foundational Paper A archived release:** https://doi.org/10.5281/zenodo.20792811
 
 ## Research position
 
@@ -103,6 +106,14 @@ Some simulations are computationally heavy and may take tens of minutes dependin
 
 - [Near-Critical Systems / Paper A](https://github.com/net421/near-critical-systems): foundational theory and simulation framework. Archived release DOI: https://doi.org/10.5281/zenodo.20792811
 - [Supply Chain Digital Twin](https://github.com/net421/Supply-Chain-Digital-Twin): industrial Digital Twin application using the near-critical framework.
+
+## Citation
+
+If you use this repository, please cite the archived Paper B software release:
+
+```text
+Controlled Near-Critical Benchmark: Reproducible Experiments for Paper B [Software and reproducibility package]. Zenodo. https://doi.org/10.5281/zenodo.20792947
+```
 
 ## Status
 
