@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Local simulation artifacts
+data/
+results_part_a/
+*.log
+
+# Temporary Office files
+~$*.docx

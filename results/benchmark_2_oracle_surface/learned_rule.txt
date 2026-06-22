@@ -1,0 +1,9 @@
+Learned interpretable rule:
+
+s* ≈ a + b log(1 + 1/delta) + c p + d rho
+
+a = -10.191561
+b = 33.091539
+c = 108.108461
+d = 13.684431
+R2 = 0.522991

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Controlled Near-Critical Benchmark: Reproducible Experiments for Paper B"
+message: "If you use this repository, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Beristain Guzman"
+    given-names: "Emmanuel"
+repository-code: "https://github.com/net421/controlled-near-critical"
+abstract: "Reproducible benchmark, scripts, results, and manuscript materials for the controlled near-critical benchmark associated with Paper B, connecting the Near-Critical Systems framework with industrial Digital Twin applications."
+keywords:
+  - near-critical systems
+  - Monte Carlo simulation
+  - threshold control
+  - digital twin
+  - supply chain resilience
+  - stochastic systems
+license: MIT
